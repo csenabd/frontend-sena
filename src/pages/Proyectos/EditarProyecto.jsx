@@ -1,7 +1,7 @@
 import { CDBContainer } from "cdbreact";
 import Navbar from "../../components/Navbar/Navbar";
 import Sidebar from '../../components/Sidebar/Sidebar';
-import List from "../../components/EditarProyecto/list";
+import List from "../../components/EditarProyecto/List";
 
 function edel() {
   return (
