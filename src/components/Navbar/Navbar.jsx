@@ -9,7 +9,7 @@ import {
   CDBCollapse,
   CDBNavbarNav,
 } from 'cdbreact';
-import './navbar.css';
+import './Navbar.css';
 
 const Navbar = () => {
   const [collapse, setCollapse] = useState(false);
