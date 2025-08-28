@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/cloudsena/(.*)",
+      "destination": "/cloudsena/index.html"
+    }
+  ]
+}
+
