@@ -3,7 +3,7 @@ import Sidebar from "./../../components/Sidebar/Sidebar.jsx"
 import Navbar from "./../../components/Navbar/Navbar.jsx"
 import List from '../../components/Principal2/principal2.jsx';
 
-function principal2(){
+function Principal2(){
     return(
         <div style={{ display: 'block', height: '100vh' }}>
         {/* Navbar */}
@@ -28,4 +28,4 @@ function principal2(){
     )
 }
 
-export default principal2
+export default Principal2
