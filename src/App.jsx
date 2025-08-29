@@ -26,7 +26,7 @@ import DetalleProyectoSem from './pages/ProyectoSem/Detalles'
 
 function App() {
   return (
-    <BrowserRouter basename='/cloudsena'>
+    <BrowserRouter>
       <Routes>
         <Route path='/' Component={Principal2} />
         <Route path='/proyectos' Component={Principal} />
