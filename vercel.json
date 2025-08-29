@@ -6,11 +6,6 @@
       "source": "/cloudsena/(.*)",
       "destination": "/cloudsena/index.html"
     }
-  ],
-  "functions": {
-    "app/api/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
+  ]
 }
 
